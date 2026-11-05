@@ -1,5 +1,12 @@
 # Change Log
 
+## 4.0.0-next.0
+
+### Patch Changes
+
+- 8cbeca3: Undoing an input rule restores the Markdown characters that triggered it when using Collaboration.
+- dd62145: Keep collaborative editing, cursor presence, and drag handles compatible with the updated `@tiptap/y-tiptap` binding.
+
 ## 3.30.3
 
 ### Patch Changes
